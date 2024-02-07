@@ -16,6 +16,20 @@
   - Abilities: overgrow, chlorophyll
     ![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/170ae393-7e2e-4dff-b7d3-2be00a949189)
 
-    
+
+  # Exploring the Weather API
+
+  Query Parameters:
+- q: New York" or 40.7 ,-73.0
+- apiKey: mykey
+
+- Temperature: 274.65
+Weather conditions:  "main": "Clouds",
+            "description": "few clouds",
+            "icon": "02n"
+Location details:  "timezone": -18000,
+    "id": 5112738,
+    "name": "City Line",
+    "cod": 200
 
               
