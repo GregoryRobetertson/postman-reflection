@@ -32,4 +32,44 @@ Location details:  "timezone": -18000,
     "name": "City Line",
     "cod": 200
 
+# Day 3
+
+Part 1: Create a new collection
+
+-Open Postman.
+-On the left sidebar, click on the "New" button, then select "Collection".
+-Name the collection "Weather API Collection" or a similar name.
+
+Part 2: Configure the Environment and Variable
+
+-Click on the "gear" icon in the top right corner to open settings.
+-Select the "Manage Environments" option.
+-Click on the "Add" button to create a new environment.
+-Name the environment "Weather API Environment".
+-Click on "Add" to add a new variable.
+-Set the variable name as "weatherApiKey".
+-Assign your weather API key as the value of this variable.
+
+Part 3: Send a Request
+
+-Go back to the main Postman window.
+-Click on the "New" button and select "Request".
+-Name the request appropriately.
+-In the request settings, select the collection you created earlier ("Weather API Collection").
+-In the URL bar, enter the endpoint provided by the weather API.
+-If the API requires any parameters (such as location), add them to the request.
+-To use the environment variable for the API key
+
+Screenshots
+
+Request Setup
+![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/689a7678-b6ed-4ed8-9778-b1cd2e04eb53)
+
+Json Response 
+
+![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/345d7dea-47a8-4447-abbd-c86880859df5)
+
+
+
+
               
