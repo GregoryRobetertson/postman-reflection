@@ -67,7 +67,14 @@ Request Setup
 
 Json Response 
 
-![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/345d7dea-47a8-4447-abbd-c86880859df5)
+# Day 4
+
+Screenshots
+
+![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/d9093f3c-5cc8-4724-8513-14f167d3ef9e)
+
+![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/9ec002e9-1533-4ed8-ae43-abe23dc56dac)
+
 
 
 
