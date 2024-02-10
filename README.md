@@ -75,6 +75,18 @@ Screenshots
 
 ![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/9ec002e9-1533-4ed8-ae43-abe23dc56dac)
 
+# Day 5
+
+![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/2d544ca6-7c57-4c71-9472-2101c9acc4ae)
+
+![image](https://github.com/GregoryRobetertson/postman-reflection/assets/147750592/1f5ddc6d-927c-4449-8b72-628f6ec00e65)
+
+### Reflections
+
+ I didn't need to create a enviorment like i did using postman. It work much faster to send request.
+
+
+
 
 
 
